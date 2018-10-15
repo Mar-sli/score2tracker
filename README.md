@@ -19,7 +19,8 @@ It is a console aplication so you can specify all the options in command line
 
 ### Usage
 
-You can find example of conversion settings inside of example_usage.sh file.
+You can find an 
+<!-- added "an" article --> example of conversion settings inside of example_usage.sh file.
 
 S2T is pure Python 3 script, so all you need to get it to work is P3.
 
