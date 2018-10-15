@@ -228,4 +228,4 @@ if len(txt_file_path)>0:
     with open(txt_file_path,'w') as text_file:
         text_file.write(lines)
 mod_file = FileOperator(test_samples)
-mod_file.save_file(title,lines,mod_file_path,64) # save_file(string_z_liniami, string_z_adresem_pliku,limit_ilosci_patternów)
+mod_file.save_file(title,lines,mod_file_path,64)
