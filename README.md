@@ -14,7 +14,8 @@ It is a console aplication so you can specify all the options in command line
 
   - Lenght of song in MOD format is limited. Longer scores will be converted to the point
   <!-- "point" instead of "poit" -->that can fit in MOD format.
-  - In tracker you can use many instruments on single channel, but S2T will assign one sample number per channel.
+  - In tracker you can use many instruments on single channel
+  <!-- deleted a comma --> but S2T will assign one sample number per channel.
 
 ### Usage
 
