@@ -1,0 +1,10 @@
+# test files #
+*.mscz
+*.mscz,
+*.mxml
+*.musicxml
+/testy/
+*.pyc
+*_log.txt
+# python specific #
+lib/__pychache__/*
