@@ -3,7 +3,7 @@ If you are like me - a composer interested in creating music for retro games, bu
 S2T is simple Python3 script that converts MusicXML to 4-channels MOD file.
 It is a console aplication so you can specify all the options in command line, or you will be prompted to do so after runing the script. After converting your score to mod all you need to do is to open .mod file in tracker and assign samples (and set proper fine tuning for each sample). In many cases you may also need to adjust song tempo.
 
-![N|Solid](https://bitbucket.org/pmwolski/score2tracker/raw/0bea34d458002d9736ec183c3e1ce808baf37ce0/demo.gif)
+![demo](https://raw.githubusercontent.com/przem360/score2tracker/master/demo.gif)
 
 
 
